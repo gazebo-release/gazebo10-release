@@ -1,3 +1,9 @@
+gazebo10 (10.2.0-1~stretch) stretch; urgency=medium
+
+  * gazebo10 10.2.0-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Fri, 31 Jan 2020 15:04:22 -0800
+
 gazebo10 (10.1.0-1~stretch) stretch; urgency=medium
 
   * gazebo10 10.1.0-1 release
